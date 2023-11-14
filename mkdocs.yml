@@ -1,4 +1,90 @@
-site_name: My Docs
+# Project information
+site_name: Docs
+site_url: 'https://itjorgealves.github.io/mkdocs/'
 
+# Repository
+repo_name: 'itjorgealves/mkdocs'
+repo_url: 'https://github.com/itjorgealves/mkdocs'
+edit_uri: edit/main/docs/
+
+# Copyright
+copyright: Copyright &copy; 2023
+
+# Configuration
 theme:
   name: material
+  features:
+    # - announce.dismiss
+    - content.action.edit
+    - content.action.view
+    - content.code.annotate
+    - content.code.copy
+    - content.code.select
+    # - content.tabs.link
+    # - content.tooltips
+    # - header.autohide
+    # - navigation.expand
+    - navigation.footer
+    # - navigation.indexes
+    # - navigation.instant
+    # - navigation.instant.prefetch
+    # - navigation.instant.progress
+    - navigation.path
+    # - navigation.prune
+    # - navigation.sections
+    - navigation.tabs
+    # - navigation.tabs.sticky
+    - navigation.top
+    # - navigation.tracking
+    - search.highlight
+    - search.share
+    # - search.suggest
+    # - toc.follow
+    # - toc.integrate
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: black
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  font:
+    text: Roboto
+    code: Roboto Mono
+  icon:
+    repo: fontawesome/brands/github
+
+# Plugins
+plugins:
+  - search
+  #- typeset
+  - blog
+
+# Hooks
+
+# Additional configuration
+
+# Extensions
+markdown_extensions:
+  # Admonitions
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  # Annotations
+  - attr_list
+  - md_in_html
+  - pymdownx.superfences
+  # Code blocks
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
