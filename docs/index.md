@@ -7,28 +7,12 @@ hide:
   - toc
 ---
 
+[Subscribe to our newsletter](#){ .md-button }
+
 <style>
   body {
     background-image: url(https://www.w3schools.com/images/lynx_landing.png), url(https://www.w3schools.com/images/background_in_space.gif);
+    background-repeat: no-repeat, repeat;
+    background-position: right bottom, center center /*left top*/;
   }
 </style>
-
-<!--# Welcome to MkDocs
-
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
-
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.-->
-
-[Subscribe to our newsletter](#){ .md-button }
