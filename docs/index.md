@@ -7,6 +7,7 @@ hide:
   - toc
 ---
 
+<>
 body {
   background: red;
 }
@@ -27,7 +28,6 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
     mkdocs.yml    # The configuration file.
     docs/
         index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+        ...       # Other markdown pages, images and other files.-->
 
-
-[Subscribe to our newsletter](#){ .md-button }-->
+[Subscribe to our newsletter](#){ .md-button }

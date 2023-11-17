@@ -111,3 +111,7 @@ nav:
     - Web Application Penetration Testing:
       - Introduction to the Web and HTTP Protocol: eJPT/S4/C1/Introduction-to-the-Web-and-HTTP-Protocol.md
 #  - Blog: blog/index.md
+
+# Additional CSS
+extra_css:
+  - stylesheets/extra.css
