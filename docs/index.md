@@ -9,7 +9,7 @@ hide:
 
 <style>
   body {
-    background-image: url(https://www.w3schools.com//lynx_landing.png), url(https://www.w3schools.com//background_in_space.gif);
+    background-image: url(https://www.w3schools.com/images/lynx_landing.png), url(https://www.w3schools.com/images/background_in_space.gif);
   }
 </style>
 
