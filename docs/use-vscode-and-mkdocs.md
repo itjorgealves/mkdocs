@@ -1,17 +1,17 @@
 ### Activate environment to deploy
-``` bash
+``` bash linenums='1'
 cd /home/$USER/Documents/mkdocs/
 source venv/bin/activate
 mkdocs serve
 ```
 
 ### Deactivate
-``` bash
+``` bash linenums='1'
 deactivate
 ```
 
 ### Push files to github repo
-``` bash
+``` bash linenums='1'
 cd /home/$USER/Documents/mkdocs/
 git add .
 git commit -m $'New files'
