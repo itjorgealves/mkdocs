@@ -2,6 +2,8 @@
 title: eJPT
 ---
 
+![Alt](https://assets.ine.com/certifications/badges/eJPT.png)
+
 ## Penetration Testing Student
 
 The hardest thing you will ever do in cybersecurity is to land your first job. There are HR gateways, industry jargon, and companies unwilling to hire new talent. To help combat these challenges, we have built a hands-on training path focused on the necessary skills to start your career. The Penetration Testing Student Learning Path covers prerequisite topics introducing you to pentesting, information security, and programming. The learning path prepares you for an entry-level position within a red team, exposes you to bug bounty basics, and provides the skills and practice necessary for the eJPT certification exam.
