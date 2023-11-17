@@ -94,8 +94,20 @@ nav:
   - Home: index.md
   - eJPT:
     - Introdution: eJPT/ejpt.md
-    - Session 1:
-      - Course 1:
-        - Assessment Methodologies:
-          - Information Gathering: eJPT/S1/C1/Assessment-Methodologies-Information-Gathering.md
+    - Assessment Methodologies:
+      - Information Gathering: eJPT/S1/C1/Assessment-Methodologies-Information-Gathering.md
+      - Footprinting & Scanning: eJPT/ejpt.md
+      - Enumeration: eJPT/ejpt.md
+      - Vulnerability Assesment: eJPT/ejpt.md
+    - Host & Networking Auditing:
+      - Auditing Fundamentals: eJPT/ejpt.md
+    - Host & Network Penetration Testing:
+      - System/Host Based Attacks: eJPT/ejpt.md
+      - Network-Based Attacks: eJPT/ejpt.md
+      - The Metasploit Framework (MSF): eJPT/ejpt.md
+      - Exploitation: eJPT/ejpt.md
+      - Post-Exploitation: eJPT/ejpt.md
+      - Social Engineering: eJPT/ejpt.md
+    - Web Application Penetration Testing:
+      - Introduction to the Web and HTTP Protocol: eJPT/ejpt.md
   - Blog: blog/index.md
