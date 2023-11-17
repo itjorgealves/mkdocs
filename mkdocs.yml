@@ -96,5 +96,6 @@ nav:
     - Introdution: eJPT/ejpt.md
     - Session 1:
       - Course 1:
-        - Assessment Methodologies':' Information Gathering: eJPT/S1/C1/Assessment-Methodologies-Information-Gathering.md
+        - Assessment Methodologies:
+          - Information Gathering: eJPT/S1/C1/Assessment-Methodologies-Information-Gathering.md
   - Blog: blog/index.md
