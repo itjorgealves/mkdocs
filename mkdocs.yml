@@ -25,17 +25,17 @@ theme:
     # - header.autohide
     # - navigation.expand
     - navigation.footer
-    - navigation.indexes
-    - navigation.instant
-    - navigation.instant.prefetch
-    - navigation.instant.progress
+    # - navigation.indexes
+    # - navigation.instant
+    # - navigation.instant.prefetch
+    # - navigation.instant.progress
     - navigation.path
     # - navigation.prune
-    - navigation.sections
+    # - navigation.sections
     - navigation.tabs
     # - navigation.tabs.sticky
     - navigation.top
-    - navigation.tracking
+    # - navigation.tracking
     - search.highlight
     - search.share
     # - search.suggest
@@ -91,23 +91,23 @@ markdown_extensions:
 
 # Page tree
 nav:
-  - Home: index.md
+#  - Home: index.md
   - eJPT:
-    - Introdution: 
+    - Introdution: eJPT/ejpt.md
     - Assessment Methodologies:
-      - Information Gathering: eJPT/S1/C1/Assessment-Methodologies-Information-Gathering.md
-      - Footprinting & Scanning: 
-      - Enumeration: 
-      - Vulnerability Assesment: 
+      - Information Gathering: eJPT/S1/C1/Information-Gathering.md
+      - Footprinting & Scanning: eJPT/S1/C2/Footprinting-Scanning.md
+      - Enumeration: eJPT/S1/C3/Enumeration.md
+      - Vulnerability Assesment: eJPT/S1/C4/Vulnerability-Assesment.md
     - Host & Networking Auditing:
-      - Auditing Fundamentals: 
+      - Auditing Fundamentals: eJPT/S2/C1/Auditing-Fundamentals.md
     - Host & Network Penetration Testing:
-      - System/Host Based Attacks: 
-      - Network-Based Attacks: 
-      - The Metasploit Framework (MSF): 
-      - Exploitation: 
-      - Post-Exploitation: 
-      - Social Engineering: 
+      - System/Host Based Attacks: eJPT/S3/C1/System-Host-Based-Attacks.md
+      - Network-Based Attacks: eJPT/S3/C2/Network-Based-Attacks.md
+      - The Metasploit Framework (MSF): eJPT/S3/C3/The-Metasploit-Framework-MSF.md
+      - Exploitation: eJPT/S3/C4/Exploitation.md
+      - Post-Exploitation: eJPT/S3/C5/Post-Exploitation.md
+      - Social Engineering: eJPT/S3/C6/Social-Engineering.md
     - Web Application Penetration Testing:
-      - Introduction to the Web and HTTP Protocol: 
-  - Blog: blog/index.md
+      - Introduction to the Web and HTTP Protocol: eJPT/S4/C1/Introduction-to-the-Web-and-HTTP-Protocol.md
+#  - Blog: blog/index.md
