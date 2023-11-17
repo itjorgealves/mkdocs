@@ -92,6 +92,8 @@ markdown_extensions:
 # Page tree
 nav:
   - Home: index.md
-  - Getting started:
-    - Installation: eJPT/ejpt.md
+  - eJPT:
+    - Introdution: eJPT/ejpt.md
+    - Session 1:
+      - Course 1: eJPT/S1/C1/Assessment-Methodologies-Information-Gathering.md
   - Blog: blog/index.md
