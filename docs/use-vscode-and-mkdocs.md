@@ -1,3 +1,7 @@
+---
+title: "Add GitHub"
+---
+
 ### Activate environment to deploy
 ``` bash linenums='1'
 cd /home/$USER/Documents/mkdocs/
