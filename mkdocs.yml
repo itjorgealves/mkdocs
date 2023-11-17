@@ -88,3 +88,10 @@ markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - pymdownx.superfences
+
+# Page tree
+nav:
+  - Home: index.md
+  - Getting started:
+    - Installation: eJPT/ejpt.md
+  - Blog: blog/index.md
