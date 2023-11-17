@@ -7,10 +7,11 @@ hide:
   - toc
 ---
 
-<>
-body {
-  background: red;
-}
+<style>
+  body {
+    background: red;
+  }
+</style>
 
 <!--# Welcome to MkDocs
 
