@@ -93,21 +93,21 @@ markdown_extensions:
 nav:
   - Home: index.md
   - eJPT:
-    - Introdution: eJPT/ejpt.md
+    - Introdution: 
     - Assessment Methodologies:
       - Information Gathering: eJPT/S1/C1/Assessment-Methodologies-Information-Gathering.md
-      - Footprinting & Scanning: eJPT/ejpt.md
-      - Enumeration: eJPT/ejpt.md
-      - Vulnerability Assesment: eJPT/ejpt.md
+      - Footprinting & Scanning: 
+      - Enumeration: 
+      - Vulnerability Assesment: 
     - Host & Networking Auditing:
-      - Auditing Fundamentals: eJPT/ejpt.md
+      - Auditing Fundamentals: 
     - Host & Network Penetration Testing:
-      - System/Host Based Attacks: eJPT/ejpt.md
-      - Network-Based Attacks: eJPT/ejpt.md
-      - The Metasploit Framework (MSF): eJPT/ejpt.md
-      - Exploitation: eJPT/ejpt.md
-      - Post-Exploitation: eJPT/ejpt.md
-      - Social Engineering: eJPT/ejpt.md
+      - System/Host Based Attacks: 
+      - Network-Based Attacks: 
+      - The Metasploit Framework (MSF): 
+      - Exploitation: 
+      - Post-Exploitation: 
+      - Social Engineering: 
     - Web Application Penetration Testing:
-      - Introduction to the Web and HTTP Protocol: eJPT/ejpt.md
+      - Introduction to the Web and HTTP Protocol: 
   - Blog: blog/index.md
