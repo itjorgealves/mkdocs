@@ -1,9 +1,9 @@
 ---
-title: "Add GitHub"
+title: "Python virtual environment & GitHub actions"
 ---
 
 ### Activate environment to deploy
-``` bash linenums='1'
+``` bash title="Activate environment to deploy" linenums="1" hl_lines="2"
 cd /home/$USER/Documents/mkdocs/
 source venv/bin/activate
 mkdocs serve

@@ -7,7 +7,7 @@ hide:
   - toc
 ---
 
-[Subscribe to our newsletter](#){ .md-button }
+[Subscribe to our newsletter](use-vscode-and-mkdocs.md){ .md-button }
 
 <style>
   body {

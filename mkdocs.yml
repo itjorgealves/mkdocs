@@ -17,9 +17,9 @@ theme:
     # - announce.dismiss
     - content.action.edit
     - content.action.view
-    - content.code.annotate
-    - content.code.copy
-    - content.code.select
+    - content.code.annotate # Code annotations
+    - content.code.copy # Code copy button
+    - content.code.select # Code selection button
     # - content.tabs.link
     # - content.tooltips
     # - header.autohide
@@ -72,14 +72,14 @@ plugins:
 
 # Extensions
 markdown_extensions:
+  # General
+  - pymdownx.superfences
   # Admonitions
   - admonition
   - pymdownx.details
-  - pymdownx.superfences
   # Annotations
   - attr_list
   - md_in_html
-  - pymdownx.superfences
   # Code blocks
   - pymdownx.highlight:
       anchor_linenums: true
@@ -87,7 +87,6 @@ markdown_extensions:
       pygments_lang_class: true
   - pymdownx.inlinehilite
   - pymdownx.snippets
-  - pymdownx.superfences
 
 # Page tree
 nav:
