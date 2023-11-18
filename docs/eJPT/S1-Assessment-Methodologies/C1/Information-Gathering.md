@@ -1,5 +1,6 @@
 ---
 title: "Information Gathering"
+icon: material/arrow-right-circle
 ---
 
 ## 1
