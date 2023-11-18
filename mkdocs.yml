@@ -59,6 +59,7 @@ theme:
     code: Roboto Mono
   icon:
     repo: fontawesome/brands/github
+    annotation: simple/youtube
 
 # Plugins
 plugins:
