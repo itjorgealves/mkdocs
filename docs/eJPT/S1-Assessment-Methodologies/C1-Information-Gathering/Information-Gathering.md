@@ -9,24 +9,21 @@ title: "Information Gathering"
 ### Whois Enumeration
 ### Website Footprinting With Netcraft
 ### DNS Recon
+!!! note
+    cretae list of types of DNS registries
 
-#### dnsrecon (Tool)
+#### dnsrecon (cli tool)
 
 :octicons-link-external-16: [DNSRecon Homepage](https://github.com/darkoperator/dnsrecon)  
 :octicons-link-external-16: [dnsrecon | Kali Linux Tools](https://www.kali.org/tools/dnsrecon/)
+``` bash
+dnsrecon -d hackersploit.org
+```
 
-DNSRecon is a Python script that provides the ability to perform:
+#### dnsdumpster.com (web tool)
 
-- Check all NS Records for Zone Transfers.
-- Enumerate General DNS Records for a given Domain (MX, SOA, NS, A, AAAA, SPF and TXT).
-- Perform common SRV Record Enumeration.
-- Top Level Domain (TLD) Expansion.
-- Check for Wildcard Resolution.
-- Brute Force subdomain and host A and AAAA records given a domain and a wordlist.
-- Perform a PTR Record lookup for a given IP Range or CIDR.
-- Check a DNS Server Cached records for A, AAAA and CNAME.
-- Records provided a list of host records in a text file to check.
-- Enumerate Hosts and Subdomains using Google.
+:octicons-link-external-16: [DNSdumpster Homepage](https://dnsdumpster.com/)
+
 ### WAF With wafw00f
 ### Subdomain Enumeration With Sublist3r
 ### Google Dorks
