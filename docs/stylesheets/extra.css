@@ -4,3 +4,8 @@
 /*    --md-default-bg-color: red;
 }
 */
+
+/* Adjust font size for code blocks */
+pre code {
+    font-size: 14px; /* Change this value to your preferred code block font size */
+}
