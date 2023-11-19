@@ -1,8 +1,8 @@
 ---
 title: "Information Gathering"
-icon: material/arrow-right-circle
 ---
 
+:simple-youtube:
 ## 1
 ## 2
 ## 3
@@ -12,8 +12,8 @@ icon: material/arrow-right-circle
 ## DNS Recon (Passive Information Gathering)
 
 ### dnsrecon (Tool)
-!!! danger ""
-    :simple-youtube: [DNSRecon Homepage](https://github.com/darkoperator/dnsrecon)  
+!!! question ""
+    :octicons-link-external-16: [DNSRecon Homepage](https://github.com/darkoperator/dnsrecon)  
     :material-arrow-right-circle: [dnsrecon | Kali Linux Tools](https://www.kali.org/tools/dnsrecon/)
 DNSRecon is a Python script that provides the ability to perform:
 
