@@ -12,9 +12,9 @@ title: "Information Gathering"
 ## DNS Recon (Passive Information Gathering)
 
 ### dnsrecon (Tool)
-!!! question ""
+!!! question inline ""
     :octicons-link-external-16: [DNSRecon Homepage](https://github.com/darkoperator/dnsrecon)  
-    :material-arrow-right-circle: [dnsrecon | Kali Linux Tools](https://www.kali.org/tools/dnsrecon/)
+    :octicons-link-external-16: [dnsrecon | Kali Linux Tools](https://www.kali.org/tools/dnsrecon/)
 DNSRecon is a Python script that provides the ability to perform:
 
 - Check all NS Records for Zone Transfers.
