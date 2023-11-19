@@ -56,7 +56,7 @@ theme:
         name: Switch to dark mode
   font:
     text: Roboto Condensed
-    code: Roboto Mono
+    code: Inconsolata #Roboto Mono
   icon:
     repo: fontawesome/brands/github
     #annotation: simple/youtube
