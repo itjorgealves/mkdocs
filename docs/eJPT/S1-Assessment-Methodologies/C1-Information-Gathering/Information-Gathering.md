@@ -55,7 +55,7 @@ Admonitions can also be rendered as inline blocks (e.g., for sidebars), placing
 them to the right using the `inline` + `end` modifiers, or to the left using
 only the `inline` modifier:
 
-=== ":octicons-arrow-right-16: inline end"
+<!--=== ":octicons-arrow-right-16: inline end"-->
 
     !!! info inline end "Lorem ipsum"
 
