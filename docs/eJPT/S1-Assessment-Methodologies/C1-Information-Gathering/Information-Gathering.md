@@ -10,7 +10,7 @@ title: "Information Gathering"
 ### Website Footprinting With Netcraft
 <!--------->
 ### DNS Recon
-!!! danger
+!!! danger "TO-DO"
     Create a list of DNS records types.
     Ex: AAAA, TXT, MS, MX...
 
