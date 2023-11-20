@@ -43,7 +43,7 @@ theme:
     # - toc.integrate
   palette:
     - scheme: slate
-      primary: black
+      primary: teal # black
       accent: green
       toggle:
         icon: material/brightness-4
