@@ -32,13 +32,13 @@ wafw00f hackersploit.org -a
 ```
 
 ### Subdomain Enumeration With Sublist3r ###
----------
 !!! info "Sublist3r"
     This package contains a Python security tool designed to enumerate subdomains of websites using OSINT. It helps penetration testers and bug hunters collect and gather subdomains for the domain they are targeting over the network. Sublist3r enumerates subdomains using many search engines such as Google, Yahoo, Bing, Baidu, and Ask. Sublist3r also enumerates subdomains using Netcraft, Virustotal, ThreatCrowd, DNSdumpster, and ReverseDNS.
 :octicons-link-external-16: [Sublist3r Homepage](https://github.com/aboul3la/Sublist3r)  
 :octicons-link-external-16: [sublist3r | Kali Linux Tools](https://www.kali.org/tools/sublist3r/)
 ``` bash
 sudo apt install sublist3r
+sublist3r -d hackersploit.org -e google,yahoo
 ```
 <!--------->
 ### Google Dorks
