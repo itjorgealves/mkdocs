@@ -59,7 +59,7 @@ wafw00f hackersploit.org -a
 :octicons-link-external-16: [sublist3r | Kali Linux Tools](https://www.kali.org/tools/sublist3r/)
 ``` bash
 sudo apt install sublist3r
-sublist3r -d hackersploit.org -e google,yahoo
+sublist3r -d hackersploit.org
 ```
 <!--------->
 ### Google Dorks
