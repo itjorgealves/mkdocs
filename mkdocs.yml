@@ -43,8 +43,8 @@ theme:
     # - toc.integrate
   palette:
     - scheme: slate
-      primary: teal # black
-      accent: green
+      primary: black
+      accent: teal
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
