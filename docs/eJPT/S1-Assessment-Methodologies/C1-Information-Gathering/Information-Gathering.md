@@ -14,15 +14,36 @@ title: "Information Gathering"
     Create a list of DNS records types.
     Ex: AAAA, TXT, MS, MX...
 #### dnsrecon (cli tool)
+!!! info "DNSRecon"
+    DNSRecon is a Python script that provides the ability to perform:
+
+    - Check all NS Records for Zone Transfers.
+    - Enumerate General DNS Records for a given Domain (MX, SOA, NS, A, AAAA, SPF and TXT).
+    - Perform common SRV Record Enumeration.
+    - Top Level Domain (TLD) Expansion.
+    - Check for Wildcard Resolution.
+    - Brute Force subdomain and host A and AAAA records given a domain and a wordlist.
+    - Perform a PTR Record lookup for a given IP Range or CIDR.
+    - Check a DNS Server Cached records for A, AAAA and CNAME.
+    - Records provided a list of host records in a text file to check.
+    - Enumerate Hosts and Subdomains using Google.
 :octicons-link-external-16: [DNSRecon Homepage](https://github.com/darkoperator/dnsrecon)  
 :octicons-link-external-16: [dnsrecon | Kali Linux Tools](https://www.kali.org/tools/dnsrecon/)
 ``` bash
 dnsrecon -d hackersploit.org
 ```
 #### dnsdumpster.com (web tool)
+!!! info "DNSdumpster"
+    DNSdumpster.com is a FREE domain research tool that can discover hosts related to a domain. Finding visible hosts from the attackers perspective is an important part of the security assessment process.
 :octicons-link-external-16: [DNSdumpster Homepage](https://dnsdumpster.com/)
 
 ### WAF With wafw00f ###
+!!! info "WAFW00F"
+    This package identifies and fingerprints Web Application Firewall (WAF) products using the following logic:
+
+    - Sends a normal HTTP request and analyses the response; this identifies a number of WAF solutions.
+    - If that is not successful, it sends a number of (potentially malicious) HTTP requests and uses simple logic to deduce which WAF it is.
+    - If that is also not successful, it analyses the responses previously returned and uses another simple algorithm to guess if a WAF or security solution is actively responding to the attacks.
 :octicons-link-external-16: [WAFW00F Homepage](https://github.com/EnableSecurity/wafw00f)  
 :octicons-link-external-16: [wafw00f | Kali Linux Tools](https://www.kali.org/tools/wafw00f/)
 ``` bash
