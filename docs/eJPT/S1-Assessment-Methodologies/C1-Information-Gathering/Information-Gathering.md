@@ -23,7 +23,7 @@ dnsrecon -d hackersploit.org
 :octicons-link-external-16: [DNSdumpster Homepage](https://dnsdumpster.com/)
 
 ### WAF With wafw00f ###
-:octicons-link-external-16: [WAFW00F Homepage](https://github.com/EnableSecurity/wafw00f)
+:octicons-link-external-16: [WAFW00F Homepage](https://github.com/EnableSecurity/wafw00f)  
 :octicons-link-external-16: [wafw00f | Kali Linux Tools](https://www.kali.org/tools/wafw00f/)
 ``` bash
 wafw00f hackersploit.org
@@ -32,11 +32,11 @@ wafw00f hackersploit.org -a
 ```
 
 ### Subdomain Enumeration With Sublist3r ###
-:octicons-link-external-16: [ Homepage]()
+:octicons-link-external-16: [ Homepage]()  
 :octicons-link-external-16: [ | Kali Linux Tools]()
 <!--------->
 ### Google Dorks
-:octicons-link-external-16: [ Homepage]()
+:octicons-link-external-16: [ Homepage]()  
 :octicons-link-external-16: [ | Kali Linux Tools]()
 <!--------->
 ### Email Harvesting With theHarvester
