@@ -9,33 +9,34 @@ title: "Information Gathering"
 ### Whois Enumeration
 ### Website Footprinting With Netcraft
 <!--------->
-### DNS Recon
+### DNS Recon ###
 !!! danger "TO-DO"
     Create a list of DNS records types.
     Ex: AAAA, TXT, MS, MX...
-
 #### dnsrecon (cli tool)
 :octicons-link-external-16: [DNSRecon Homepage](https://github.com/darkoperator/dnsrecon)  
 :octicons-link-external-16: [dnsrecon | Kali Linux Tools](https://www.kali.org/tools/dnsrecon/)
 ``` bash
 dnsrecon -d hackersploit.org
 ```
-
 #### dnsdumpster.com (web tool)
 :octicons-link-external-16: [DNSdumpster Homepage](https://dnsdumpster.com/)
-
-### WAF With wafw00f
+### WAF With wafw00f ###
 :octicons-link-external-16: [WAFW00F Homepage](https://github.com/EnableSecurity/wafw00f)
 :octicons-link-external-16: [wafw00f | Kali Linux Tools](https://www.kali.org/tools/wafw00f/)
 ``` bash
 wafw00f hackersploit.org
-wafw00f hackersploit.org - # Option: -a or --findall --> MEANS --> Testing For All Possible WAF Instances
+wafw00f hackersploit.org -a # Option: -a or --findall --> MEANS --> Testing For All Possible WAF Instances
 ```
-<!--------->
+
 ### Subdomain Enumeration With Sublist3r
 :octicons-link-external-16: [ Homepage]()
 :octicons-link-external-16: [ | Kali Linux Tools]()
+<!--------->
 ### Google Dorks
+:octicons-link-external-16: [ Homepage]()
+:octicons-link-external-16: [ | Kali Linux Tools]()
+<!--------->
 ### Email Harvesting With theHarvester
 ### Leaked Password Databases
 
