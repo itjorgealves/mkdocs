@@ -65,6 +65,7 @@ sublist3r -d hackersploit.org -e google,yahoo
 
 ### Google Dorks ###
 :octicons-link-external-16: [Google Homepage](https://www.google.com/)  
+:octicons-link-external-16: [Google Hacking Database](https://www.exploit-db.com/google-hackimg-database)
 ```
 site:ine.com
 site:ine.com inurl:admin
@@ -77,6 +78,9 @@ intitle:index of
 
 cache:ine.com
 waybackmachine -> https://archive.org/web/
+
+inurl:auth_user_file.txt
+inurl:passwd.txt
 ```
 
 ### Email Harvesting With theHarvester
