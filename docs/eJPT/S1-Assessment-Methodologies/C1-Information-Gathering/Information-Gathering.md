@@ -60,13 +60,29 @@ wafw00f hackersploit.org -a
 ``` bash
 sudo apt install sublist3r
 sublist3r -d hackersploit.org
+sublist3r -d hackersploit.org -e google,yahoo
 ```
-<!--------->
-### Google Dorks
+
+### Google Dorks ###
+:octicons-link-external-16: [Google Homepage](https://www.google.com/)  
+```
+site:ine.com
+site:ine.com inurl:admin
+site:*.ine.com
+site:*.ine.com inurl:admin
+site:*.ine.com intitle:admin
+site:*.ine.com filetype:pdf
+site:ine.com instructors
+intitle:index of
+
+cache:ine.com
+waybackmachine -> https://archive.org/web/
+```
+
+### Email Harvesting With theHarvester
 :octicons-link-external-16: [ Homepage]()  
 :octicons-link-external-16: [ | Kali Linux Tools]()
 <!--------->
-### Email Harvesting With theHarvester
 ### Leaked Password Databases
 
 ## Active Information Gathering
