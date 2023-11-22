@@ -65,7 +65,7 @@ sublist3r -d hackersploit.org -e google,yahoo
 
 ### Google Dorks ###
 :octicons-link-external-16: [Google Homepage](https://www.google.com/)  
-:octicons-link-external-16: [Google Hacking Database](https://www.exploit-db.com/google-hackimg-database)
+:octicons-link-external-16: [Google Hacking Database](https://www.exploit-db.com/google-hacking-database)
 ```
 site:ine.com
 site:ine.com inurl:admin
