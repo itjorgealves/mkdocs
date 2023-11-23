@@ -85,12 +85,19 @@ inurl:auth_user_file.txt
 inurl:passwd.txt
 ```
 
-### Email Harvesting With theHarvester
+### Email Harvesting With theHarvester ###
+!!! info "theHarvester"
+    The package contains a tool for gathering subdomain names, e-mail addresses, virtual hosts, open ports/ banners, and employee names from different public sources (search engines, pgp key servers).
+:octicons-link-external-16: [theHarvester Homepage](https://github.com/laramies/theHarvester)  
+:octicons-link-external-16: [theHarvester | Kali Linux Tools](https://www.kali.org/tools/theharvester/)
+``` bash
+
+```
+
+### Leaked Password Databases
 :octicons-link-external-16: [ Homepage]()  
 :octicons-link-external-16: [ | Kali Linux Tools]()
 <!--------->
-### Leaked Password Databases
-
 ## Active Information Gathering
 ### DNS Zone Transfers
 ### Host Discovery With Nmap
