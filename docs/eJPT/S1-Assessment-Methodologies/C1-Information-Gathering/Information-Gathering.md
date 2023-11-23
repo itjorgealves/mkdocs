@@ -91,7 +91,7 @@ inurl:passwd.txt
 :octicons-link-external-16: [theHarvester Homepage](https://github.com/laramies/theHarvester)  
 :octicons-link-external-16: [theHarvester | Kali Linux Tools](https://www.kali.org/tools/theharvester/)
 ``` bash
-theharvester -d hackersploit.org -b google,linkedin
+theHarvester -d hackersploit.org -b google,linkedin
 ```
 
 ### Leaked Password Databases
