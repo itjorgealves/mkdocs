@@ -64,6 +64,8 @@ sublist3r -d hackersploit.org -e google,yahoo
 ```
 
 ### Google Dorks ###
+!!! danger "TO-DO"
+    Google Dorks Ex:
 :octicons-link-external-16: [Google Homepage](https://www.google.com/)  
 :octicons-link-external-16: [Google Hacking Database](https://www.exploit-db.com/google-hacking-database)
 ```
