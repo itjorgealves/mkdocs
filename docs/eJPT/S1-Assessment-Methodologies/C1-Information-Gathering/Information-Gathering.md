@@ -95,12 +95,14 @@ theHarvester -d hackersploit.org -b google,linkedin
 ```
 
 ### Leaked Password Databases
+:octicons-link-external-16: [';--have i beenpwned?](https://haveibeenpwned.com)
+
+## Active Information Gathering
 !!! danger ""
 !!! info ""
 :octicons-link-external-16: [ Homepage]()  
 :octicons-link-external-16: [ | Kali Linux Tools]()
 <!--------->
-## Active Information Gathering
 ### DNS Zone Transfers
 ### Host Discovery With Nmap
 ### Port Scanning With Nmap
