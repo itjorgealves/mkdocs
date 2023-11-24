@@ -95,6 +95,8 @@ theHarvester -d hackersploit.org -b google,linkedin
 ```
 
 ### Leaked Password Databases
+!!! danger ""
+!!! info ""
 :octicons-link-external-16: [ Homepage]()  
 :octicons-link-external-16: [ | Kali Linux Tools]()
 <!--------->
