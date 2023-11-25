@@ -5,9 +5,24 @@ title: "Information Gathering"
 ## Introduction
 
 ## Passive Information Gathering
+
 ### Website Recon & Footprinting
+!!! danger ""
+!!! info ""
+:octicons-link-external-16: [ Homepage]()  
+:octicons-link-external-16: [ | Kali Linux Tools]()
+<!--------->
 ### Whois Enumeration
+!!! danger ""
+!!! info ""
+:octicons-link-external-16: [ Homepage]()  
+:octicons-link-external-16: [ | Kali Linux Tools]()
+<!--------->
 ### Website Footprinting With Netcraft
+!!! danger ""
+!!! info ""
+:octicons-link-external-16: [ Homepage]()  
+:octicons-link-external-16: [ | Kali Linux Tools]()
 <!--------->
 ### DNS Recon ###
 !!! danger "TO-DO"
