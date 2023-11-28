@@ -22,7 +22,7 @@ host hackersploit.org
 ```
 :octicons-link-external-16: [About /robots.txt](https://www.robotstxt.org/robotstxt.html)  
 https://hackersploit.org/robots.txt
-
+:octicons-link-external-16: [sitemaps.org](https://www.sitemaps.org/)  
 https://hackersploit.org/sitemap.xml
 https://hackersploit.org/sitemaps.xml
 
