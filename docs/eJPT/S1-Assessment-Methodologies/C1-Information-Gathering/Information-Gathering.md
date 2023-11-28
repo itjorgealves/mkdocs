@@ -23,6 +23,9 @@ host hackersploit.org
 :octicons-link-external-16: [About /robots.txt](https://www.robotstxt.org/robotstxt.html)  
 https://hackersploit.org/robots.txt
 
+https://hackersploit.org/sitemap.xml
+https://hackersploit.org/sitemaps.xml
+
 ### Whois Enumeration
 !!! danger ""
 !!! info ""
