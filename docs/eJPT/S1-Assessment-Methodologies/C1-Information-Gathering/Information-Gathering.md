@@ -7,11 +7,23 @@ title: "Information Gathering"
 ## Passive Information Gathering
 
 ### Website Recon & Footprinting
-!!! danger ""
-!!! info ""
+!!! note "What are we looking for:"
+    - IP Addresses
+    - Directories hidden from search engines
+    - Names
+    - Email addresses
+    - Phone Numbers
+    - Physical addresses
+    - Web technologies being used
+``` bash
+# The whatis command is used to get brief information about Linux commands or functions.
+whatis host
+host hackersploit.org
+```
+
 :octicons-link-external-16: [ Homepage]()  
 :octicons-link-external-16: [ | Kali Linux Tools]()
-<!--------->
+
 ### Whois Enumeration
 !!! danger ""
 !!! info ""
