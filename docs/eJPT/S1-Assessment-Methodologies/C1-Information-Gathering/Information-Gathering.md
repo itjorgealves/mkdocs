@@ -20,7 +20,7 @@ title: "Information Gathering"
 whatis host
 host hackersploit.org
 ```
-:octions-link-external-16: [About /robots.txt](https://www.robotstxt.org/robotstxt.html)
+:octicons-link-external-16: [About /robots.txt](https://www.robotstxt.org/robotstxt.html)  
 https://hackersploit.org/robots.txt
 
 ### Whois Enumeration
