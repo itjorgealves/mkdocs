@@ -171,7 +171,6 @@ fierce -dns zonetransfer.me
 ``` bash
 ip a s
 sudo nmap -sn 192.168.2.0/24
-sudo apt install netdiscover
 sudo netdiscover -i eth0 -r 192.168.2.0/24
 ```
 
