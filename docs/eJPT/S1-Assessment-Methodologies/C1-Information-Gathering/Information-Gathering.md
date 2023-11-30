@@ -156,7 +156,13 @@ theHarvester -d hackersploit.org -b google,linkedin
 - A DNS Zone transfer can provide penetration testers with a holistic view of an organization's network layout.
 - Furthermore, in certain cases, internal network addresses may be found on an organization's DNS servers.
 
+:octicons-link-external-16: [ZoneTransfer.me Homepage](https://zonetransfer.me)
+``` bash
+dnsenum zonetransfer.me
 
+```
+!!! info
+    sudo vim /etc/hosts
 
 !!! danger ""
 !!! info ""
