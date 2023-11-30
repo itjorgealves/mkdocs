@@ -159,7 +159,7 @@ theHarvester -d hackersploit.org -b google,linkedin
 :octicons-link-external-16: [ZoneTransfer.me Homepage](https://zonetransfer.me)
 ``` bash
 dnsenum zonetransfer.me
-
+dig axfr @nsztm1.digi.ninja zonetransfer.me
 ```
 !!! info
     sudo vim /etc/hosts
