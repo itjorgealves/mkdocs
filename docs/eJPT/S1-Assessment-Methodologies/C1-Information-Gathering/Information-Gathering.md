@@ -126,13 +126,31 @@ theHarvester -d hackersploit.org -b google,linkedin
 ### Leaked Password Databases
 :octicons-link-external-16: [';--have i beenpwned?](https://haveibeenpwned.com)
 
+
 ## Active Information Gathering
+
+### DNS Zone Transfers
+#### DNS
++ Domain Name System (DNS) is a protocol that is used to resolve domain 
+names/hostnames to IP addresses.
++ During the early days of the internet, users would have to remember the 
+IP addresses of the sites that they wanted to visit, DNS resolves this 
+issue by mapping domain names (easier to recall) to their respective IP 
+addresses.
++ A DNS server (nameserver) is like a telephone directory that contains 
+domain names and their corresponding IP addresses.
++ A plethora of public DNS servers have been set up by companies like 
+Cloudflare (1.1.1.1) and Google (8.8.8.8). These DNS servers contain the 
+records of almost all domains on the internet.
+
+
 !!! danger ""
 !!! info ""
 :octicons-link-external-16: [ Homepage]()  
 :octicons-link-external-16: [ | Kali Linux Tools]()
 <!--------->
-### DNS Zone Transfers
+<!--------->
+<!--------->
 ### Host Discovery With Nmap
 ### Port Scanning With Nmap
 ### Windows Recon: Nmap Host Discovery
@@ -156,7 +174,13 @@ theHarvester -d hackersploit.org -b google,linkedin
 ## 5
 
 
-
+!!! danger ""
+!!! info ""
+:octicons-link-external-16: [ Homepage]()  
+:octicons-link-external-16: [ | Kali Linux Tools]()
+<!--------->
+<!--------->
+<!--------->
 
 
 ---
