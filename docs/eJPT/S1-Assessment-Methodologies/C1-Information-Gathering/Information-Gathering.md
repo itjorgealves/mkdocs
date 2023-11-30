@@ -165,6 +165,16 @@ fierce -dns zonetransfer.me
 !!! info
     sudo vim /etc/hosts
 
+### Host Discovery With Nmap
+!!! info "nmap"
+
+``` bash
+ip a s
+sudo nmap -sn 192.168.2.0/24
+sudo apt install netdiscover
+sudo netdiscover -i eth0 -r 192.168.2.0/24
+```
+
 !!! danger ""
 !!! info ""
 :octicons-link-external-16: [ Homepage]()  
@@ -172,7 +182,6 @@ fierce -dns zonetransfer.me
 <!--------->
 <!--------->
 <!--------->
-### Host Discovery With Nmap
 ### Port Scanning With Nmap
 ### Windows Recon: Nmap Host Discovery
 
