@@ -160,6 +160,7 @@ theHarvester -d hackersploit.org -b google,linkedin
 ``` bash
 dnsenum zonetransfer.me
 dig axfr @nsztm1.digi.ninja zonetransfer.me
+fierce -dns zonetransfer.me
 ```
 !!! info
     sudo vim /etc/hosts
