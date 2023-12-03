@@ -7,7 +7,7 @@ title: "Information Gathering"
 ## Passive Information Gathering
 
 ### Website Recon & Footprinting
-!!! note "What are we looking for:"
+??? note "What are we looking for:"
     - IP Addresses
     - Directories hidden from search engines
     - Names
