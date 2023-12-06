@@ -177,6 +177,14 @@ sudo netdiscover -i eth0 -r 192.168.2.0/24
 ```
 
 ### Port Scanning With Nmap
+``` bash
+# default nmap scan
+nmap 10.4.19.218
+# ultrapassa ping not permited
+nmap -Pn 10.4.19.218
+```
+
+
 !!! danger ""
 !!! info ""
 :octicons-link-external-16: [ Homepage]()  
