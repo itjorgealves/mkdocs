@@ -182,6 +182,32 @@ sudo netdiscover -i eth0 -r 192.168.2.0/24
 nmap 10.4.19.218
 # ultrapassa ping not permited
 nmap -Pn 10.4.19.218
+# tcp ports
+ # all
+nmap -Pn -p- 10.4.19.218
+ # some ports
+nmap -Pn -p 80,445,3389 10.4.19.218
+ # range
+nmap -Pn -p1-100 10.4.19.218
+ # fast scan
+nmap -Pn -F 10.4.19.218
+# udp port
+nmap -Pn -sU 10.4.19.218
+# fast and verbosity
+nmap -Pn -F 10.4.19.218 -v
+# service version scan
+nmap -Pn -F -sV 10.4.19.218
+# OS system detect
+nmap -Pn -F -sV -O 10.4.19.218 -v
+# list nmap scripts
+nmap -Pn -F -sV -O -sC 10.4.19.218 -v
+# nmap agrresive scan
+nmap -Pn -F -A 10.4.19.218 -v
+# speed scan
+nmap -Pn -F -T5 -sV -O -sC 10.4.19.218 -v
+# output to file
+nmap -Pn -F 10.4.19.218 -oN test.txt
+nmap -Pn -F 10.4.19.218 -oX test.xml
 ```
 
 
