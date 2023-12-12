@@ -103,7 +103,7 @@ nav:
     - Introduction: eJPT/Introduction.md
     - Assessment Methodologies:
       - Information Gathering: eJPT/S1-Assessment-Methodologies/C1-Information-Gathering/Information-Gathering.md
-      - Footprinting & Scanning: eJPT/S1-Assessment-Methodologies/C2/Footprinting-Scanning.md
+      - Footprinting & Scanning: eJPT/S1-Assessment-Methodologies/C2-Footprinting-Scanning/Footprinting-Scanning.md
       - Enumeration: eJPT/S1-Assessment-Methodologies/C3/Enumeration.md
       - Vulnerability Assesment: eJPT/S1-Assessment-Methodologies/C4/Vulnerability-Assesment.md
     - Host & Networking Auditing:
