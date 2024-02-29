@@ -101,6 +101,7 @@ nav:
 #  - Home: index.md
   - eJPT:
     - Introduction: eJPT/Introduction.md
+    - Notes: eJPT/Notes.md
     - Assessment Methodologies:
       - Information Gathering: eJPT/S1-Assessment-Methodologies/C1-Information-Gathering/Information-Gathering.md
       - Footprinting & Scanning: eJPT/S1-Assessment-Methodologies/C2-Footprinting-Scanning/Footprinting-Scanning.md
