@@ -38,3 +38,12 @@ nmap -iL ips -sV -O -sC
 - masscan
 - rustscan
 - autorecon
+
+
+### NMAP Host Discovery
+``` bash title="script" linenums="1"
+ping 10.4.28.137
+arp-scan -g 10.4.28.137
+nmap -Pn 10.4.28.137
+nmap -Pn 10.4.28.137 -p 80,135,139,445,3389,49154,49155 -sV -O
+```
