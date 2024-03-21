@@ -1,0 +1,16 @@
+/*body {
+    background: red;
+*/    /* or, using CSS variables */
+/*    --md-default-bg-color: red;
+}
+*/
+
+/* Adjust font size for body text */
+body {
+    font-size: 16px; /* Change this value to your preferred font size */
+}
+
+/* Adjust font size for code blocks */
+pre code {
+    font-size: 14px; /* Change this value to your preferred code block font size */
+}
